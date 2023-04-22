@@ -1,0 +1,1 @@
+This project is initially just for learning Golang. My main language is Javascript with Node.js, because of that, many concepts of this language are still in my head.
